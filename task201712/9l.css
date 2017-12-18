@@ -1,0 +1,78 @@
+#left{
+    width: 260px;
+    height: 1213px;
+    background-color: #2A2E3D;
+    color:#6D8095;
+    float: left;
+}
+.left_container{
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.white{
+    color: #fff;
+}
+.sixteen{
+    font-size: 16px;
+}
+.abc{
+    width: 130px;
+    height: 57px;
+    background: url("../img/icon/circle.jpg") left center no-repeat;
+}
+.abc span{
+    line-height: 57px;
+}
+.scfs{
+    width: 130px;
+    height: 37px;
+    padding-top: 20px;
+    padding-left: 45px;
+}
+.scfs .fgx{
+    padding:10px 6px 20px;
+    margin-left: 40px;
+    border-left: 2px solid;
+    font-size: 0;
+}
+#left .main_ul{
+    padding-top: 22px;
+    padding-left: 45px;
+}
+.grbb{
+    height: 191px;
+    line-height: 32px;
+}
+.grbb .ul2{
+    padding-left: 24px;
+}
+.grbb .ul3{
+    padding-left: 24px;
+}
+.fifty{
+    line-height: 50px;
+}
+.xx{
+    list-style: url("../img/icon/xx.gif");
+}
+.fx{
+    list-style: url("../img/icon/fx.gif");
+}
+.grbb{
+    list-style: url("../img/icon/grbb.jpg");
+}
+.jty{
+    list-style: url("../img/icon/jty.gif");
+}
+.jtx{
+    list-style: url("../img/icon/jtx.gif");
+}
+.wdw{
+    list-style: url("../img/icon/wdw.gif");
+}
+.wdg{
+    list-style: url("../img/icon/wdg.gif");
+}
+.zh{
+    list-style: url("../img/icon/zh.gif");
+}

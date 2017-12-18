@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size:12px;
+    font-family: "微软雅黑";
+}
+img{
+    border:none;
+}
+
+input,textarea{
+    list-style: none;
+    border:none;
+}
+textarea{
+    resize:none;
+}
+a{
+    text-decoration: none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clearfix:after{
+    content:"";
+    display: block;
+    clear:both;
+}
