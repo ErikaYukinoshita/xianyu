@@ -19,7 +19,7 @@ header {
     font-size: 21px;
     height: 100%;
     padding-left: 44px;
-    background: url(example.jpg) left center no-repeat;
+    /*background: url(../images/example.jpg) left center no-repeat;*/
     display: inline-block;
 }
 
@@ -27,7 +27,7 @@ header {
     float: right;
     font-size: 14px;
     padding-left: 25px;
-    background: url(example.jpg) left center no-repeat;
+    /*background: url(../images/example.jpg) left center no-repeat;*/
     margin-top: -4px;
     color: #e7504d;
     text-decoration: none;
@@ -66,7 +66,7 @@ header {
     width: 100%;
     height: 690px;
     overflow: hidden;
-    background: url(example.jpg) center top no-repeat;
+    background: url(../images/example.jpg) center top no-repeat;
     background-size: cover;
 }
 
@@ -123,22 +123,22 @@ header {
 }
 
 .second .li_first {
-    background: url(example.jpg) no-repeat center top;
+    background: url(../images/example.jpg) no-repeat center top;
 }
 .second .li_second {
-    background: url(example.jpg) no-repeat center top;
+    background: url(../images/example.jpg) no-repeat center top;
 }
 .second .li_third {
-    background: url(example.jpg) no-repeat center top;
+    background: url(../images/example.jpg) no-repeat center top;
 }
 .second .li_forth {
-    background: url(example.jpg) no-repeat center top;
+    background: url(../images/example.jpg) no-repeat center top;
 }
 
 .second p {
     width: 162px;
     font: normal 14px/18px "SimHei";
-    color: #767777;
+    color: #FFFFFF;
     text-align: center;
     margin: auto;
 }
@@ -152,7 +152,7 @@ header {
     width: 100%;
     height: 100px;
     display: block;
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
 }
 
 .third .third_info {
@@ -165,7 +165,7 @@ header {
 }
 
 .forth {
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -225,7 +225,7 @@ header {
     -moz-appearance: none;
     -webkit-appearance: none;
     -ms-appearance: none;
-    background: url(example.jpg) no-repeat scroll right center transparent;
+    /*background: url(../images/example.jpg) no-repeat scroll right center transparent;*/
     background-color: #ffffff;
 }
 
@@ -297,7 +297,7 @@ header {
 .sixth .sixth_left {
     width: 66%;
     min-width: 66%;
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
     background-size: cover;
     color: #ffffff;
     padding: 130px 0 155px 0;
@@ -455,7 +455,7 @@ header {
 
 .seventh .seventh_right {
     width: 34%;
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
     background-size: cover;
     position: relative;
 }
@@ -666,19 +666,19 @@ header {
 }
 
 .nineth ul .first_img {
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
 }
 
 .nineth ul .second_img {
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
 }
 
 .nineth ul .third_img {
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
 }
 
 .nineth ul .forth_img {
-    background: url(example.jpg) no-repeat center;
+    background: url(../images/example.jpg) no-repeat center;
 }
 
 footer {
